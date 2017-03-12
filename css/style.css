@@ -1,0 +1,55 @@
+html,body{
+font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	margin: 0px;
+	padding:0px;
+	background-color: #595959;
+	color: #f0f0f0; 
+	line-height: 1.5;	
+}
+
+.main-nav {
+  position: absolute;
+  width: 100%;
+  
+}
+
+.main-nav 
+.container {
+  width: 100%
+}
+
+.social-icons a {
+  font-size: 18px;
+  color: #fff;
+  margin-top:55px;
+  margin-bottom:55px;
+  padding:right :20px;
+  background-color: #c2c;  
+}
+
+.social-icons .fa-facebook:hover {
+  color: #3B5997
+}
+
+.social-icons .fa-twitter:hover {
+  color:#29C5F6
+}
+
+.social-icons .fa-google-plus:hover {
+  color:#D13D2F
+}
+
+.social-icons .fa-youtube:hover{
+  color: #ec5538
+}
+/*
+.pull-social-icons {
+  padding-left: 10px;
+  padding-left: 0px;
+  text-align: center;
+  border-right: 5px solid #eee;
+  border-left: 0;
+}
+*/
