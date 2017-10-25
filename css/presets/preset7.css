@@ -1,0 +1,69 @@
+a,
+#home-slider .caption h1 span, 
+#twitter-carousel .item span, 
+#footer .footer-bottom, 
+#single-portfolio .close-folio-item:hover, 
+.single-table.featured .btn.btn-primary, 
+.contact-info ul li a:hover, 
+#footer .footer-bottom a  {
+  color: #353553;
+}
+
+.btn.btn-primary:hover,
+.btn-submit:hover {
+  background-color: #d5ab07;
+}
+
+a:hover, a:focus {
+	color: #d5ab07;
+}
+
+.main-nav, 
+.service-icon, 
+.progress-bar.progress-bar-primary, 
+.single-table.featured, 
+.btn.btn-primary, 
+.twitter-icon .fa-twitter, 
+.twitter-left-control:hover, .twitter-right-control:hover, 
+.post-icon, 
+.entry-header .date:after, 
+.btn-loadmore:hover, 
+.btn-submit,
+#footer, 
+.caption .btn-start:hover, 
+.left-control:hover, 
+.right-control:hover, 
+.folio-overview a:hover {
+  background-color:#353553;
+}
+
+.twitter-left-control:hover, 
+.twitter-right-control:hover, 
+.btn-loadmore:hover  {
+	border: 1px solid #353553;
+}
+
+.caption .btn-start:hover, 
+.left-control:hover, 
+.right-control:hover {
+	border-color: #353553;
+}
+
+.twitter-icon .fa-twitter:after {
+	border-color: #353553 transparent transparent;
+}
+.social-icons a{
+    display: block;
+    float: left;
+    width: 36px;
+    height: 36px;
+    border: 2px solid #909090;
+    border-radius: 20px;
+    margin-right: 7px; /*space between*/
+
+} 
+.social-icons a i{
+    padding: 12px 11px;
+    font-size: 20px;
+    color: #909090;
+}
